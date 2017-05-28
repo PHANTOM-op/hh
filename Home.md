@@ -1,5 +1,5 @@
 Welcome to the Vortex wiki!
 
-This wiki will be created once I actually decide on a data storage system.
+Please see the sidebar for help topics.
 
-For now, just use `>>automod` for information
+If a topic is not covered here, feel free to ask on the [support server](https://discord.gg/0p9LSGoRLu6Pet0k)
