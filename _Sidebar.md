@@ -2,12 +2,12 @@
 
 - [[Home]]
 
-## Moderator Commands
+### Moderator Commands
 
-- [[>>raidmode|Raid Mode]]
-- [[>>clean|Cleaning Messages]]
+- [[Raidmode|Raid Mode]]
+- [[Clean|Cleaning Messages]]
 
-## Auto Moderator
-## Logs
-## Settings
-- [[>>ignore|Ignores]]
+### Auto Moderator
+### Logs
+### Settings
+- [[Ignore|Ignores]]
