@@ -4,21 +4,21 @@
 
 ### Moderator Commands
 
-- Ban
 - [[Clean|Cleaning Messages]]
-- Hackban
 - Kick
-- Mute
-- [[Raidmode|Raid Mode]]
+- Ban
+- Hackban
 - Softban
+- [[Raidmode|Raid Mode]]
+- Mute
 - Unmute
 
 
-### Auto Moderator
+### Automatic Moderator
 
 - Anti-Invite
 - Anti-Mention
-- Anti-Spam
+- Anti-Duplicate
 - Auto-Raidmode
 
 
@@ -27,7 +27,12 @@
 - Mod Log
 - Message Log
 - Server Log
+- Timezone
 
 
 ### Settings
 - [[Ignoring Roles and Channels]]
+- Role Persistence
+
+
+*Note: If a feature is listed here but does not have an associated page, either the page is in-progress or it is for a future feature*
