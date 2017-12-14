@@ -30,4 +30,4 @@
 
 
 ### Settings
-- [[Ignoring Roles and Channels|Ignores]]
+- [[Ignoring Roles and Channels]]
