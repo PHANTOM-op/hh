@@ -1,10 +1,13 @@
-# Vortex Wiki
-[[Home]]
+## Vortex Wiki
+
+- [[Home]]
+
 ## Moderator Commands
-1. [[[Raid Mode]]](RaidMode)
-2. [[[Cleaning Messages]]](Clean)
-3. 
+
+- [[>>raidmode|Raid Mode]]
+- [[>>clean|Cleaning Messages]]
+
 ## Auto Moderator
 ## Logs
 ## Settings
-1. [[[Ignores]]](Ignore)
+- [[>>ignore|Ignores]]
