@@ -1,7 +1,13 @@
-Welcome to the Vortex wiki!
+<img align="right" src="https://cdn.discordapp.com/avatars/240254129333731328/a0b835bcfca6b03f40badf7d872bcab2.png?size=1024" style="border:2px solid;border-radius:50px;" height="200" width="200">
 
-Please see the sidebar for help topics.
+### Welcome to the **Vortex** wiki!
 
-![Avatar](https://cdn.discordapp.com/avatars/240254129333731328/a0b835bcfca6b03f40badf7d872bcab2.png?size=1024)
+# ℹ [[About Vortex]]
 
-If a topic is not covered here, feel free to ask on the [support server](https://discord.gg/0p9LSGoRLu6Pet0k)
+# 🌀 [[Getting Started]]
+
+# 🚩 [[Strikes]]
+
+# ⚠ [[Troubleshooting]]
+
+# 📥 [Support Server](https://discord.gg/0p9LSGoRLu6Pet0k)
