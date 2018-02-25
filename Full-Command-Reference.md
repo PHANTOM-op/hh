@@ -1,6 +1,6 @@
 This is a summary of all of Vortex's commands. Arguments surrounded by `<>` are required, and arguments surrounded by `[]` are optional. Do not include `<>` nor `[]` when running commands!
 
-## 📄 General Commands
+## 📜 General Commands
 ### `>>about`
 Shows information about the bot, including its version number, some features, and a few statistics.
 
@@ -16,7 +16,7 @@ Shows information about the server this command is used in.
 ### `>>userinfo [user]`
 Shows information about the provided user, or yourself if you don't include any arguments.
 
-## 📄 Moderation Commands
+## 📜 Moderation Commands
 ### `>>kick <@users or user IDs...> [reason]`
 Kicks all of the provided users (or user IDs). If a reason is included, that reason is used in the audit log and moderation log.
 
@@ -50,6 +50,6 @@ Removes the specified number of strikes (or 1 if not specified) to the provided 
 ### `>>reason [case number] <reason>`
 Edits a reason in the Moderation Log. If no case number is provided, Vortex will search the log for the most-recent case that has no provided reason.
 
-## 📄 Settings Commands
+## 📜 Settings Commands
 
-## 📄 Automod Commands
+## 📜 Automod Commands
