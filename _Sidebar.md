@@ -1,36 +1,13 @@
 ## [[Vortex Wiki|Home]]
 
-### Moderator Commands
+### ℹ [[About Vortex]]
 
-- [[Clean|Cleaning Messages]]
-- Kick
-- Ban
-- Hackban
-- Softban
-- [[Raidmode|Raid Mode]]
-- Mute
-- Unmute
+### 🌀 [[Getting Started]]
 
+### 🔨 [[Moderator Guide]]
 
-### Automatic Moderator
+### 🚩 [[Strikes]]
 
-- Anti-Invite
-- Anti-Mention
-- Anti-Duplicate
-- Auto-Raidmode
+### ⚠ [[Troubleshooting]]
 
-
-### Logs
-
-- Mod Log
-- Message Log
-- Server Log
-- Timezone
-
-
-### Settings
-- [[Ignoring Roles and Channels]]
-- Role Persistence
-
-
-*Note: If a feature is listed here but does not have an associated page, either the page is in-progress or it is for a future feature*
+### 📥 [Support Server](https://discord.gg/0p9LSGoRLu6Pet0k)
