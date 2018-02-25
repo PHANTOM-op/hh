@@ -6,7 +6,7 @@
 
 # 🌀 [[Getting Started]]
 
-# [[🚩 Strikes]]
+# 🚩 [[Strikes]]
 
 # ⚠ [[Troubleshooting]]
 
