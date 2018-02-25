@@ -4,6 +4,8 @@ Oh no! Something isn't working!! Follow this handy guide for solving common issu
 ### ⚠ Check Vortex's Permissions
 Does Vortex have the necessary permissions to perform the action you want it to? Try giving Vortex the Administrator permission and moving the 'Vortex' role to the top (or near the top) of the role list. If this fixes your issue, Vortex didn't have sufficient permissions.
 
+> ![RoleOrder](https://i.imgur.com/U1bmRnO.gif)
+
 ### ⚠ Check Discord's Status
 It's possible that Discord may be having connectivity or latency issues. You can check Discord's status on [their status page](https://status.discordapp.com/) or on the [unofficial status server](https://discord.gg/jn7TAP8).
 
