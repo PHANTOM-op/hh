@@ -6,6 +6,8 @@
 
 # 🌀 [[Getting Started]]
 
+# 🔨 [[Moderator Guide]]
+
 # 🚩 [[Strikes]]
 
 # ⚠ [[Troubleshooting]]
