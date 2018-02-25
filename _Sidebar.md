@@ -10,6 +10,8 @@
 
 ### 🛡 [[Auto-Moderation]]
 
+### 🌟 Vortex Pro *[coming soon]*
+
 ### 📄 [[Full Command Reference]]
 
 ### ⚠ [[Troubleshooting]]
