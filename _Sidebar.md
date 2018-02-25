@@ -1,6 +1,4 @@
-## Vortex Wiki
-
-- [[Home]]
+## [[Vortex Wiki|Home]]
 
 ### Moderator Commands
 
