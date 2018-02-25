@@ -12,7 +12,7 @@
 
 ### 🌟 Vortex Pro *[coming soon]*
 
-### 📄 [[Full Command Reference]]
+### 📜 [[Full Command Reference]]
 
 ### ⚠ [[Troubleshooting]]
 
