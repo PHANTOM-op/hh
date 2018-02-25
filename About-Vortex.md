@@ -22,4 +22,4 @@ That's me! I'm jagrosh#4824 (113156185389092864), and I've been moderating Disco
 
 ## ℹ Testimonials
 **Snoot 🐾**#6209 (239809536012058625)
-> Vortex helped my server being targeted from spammers with its easily configurable anti-spam and anti-mention settings. We were able to control trolls rapidly joining with the raidmode protection. It was also extremely utilise to take Vortex's anti-invite feature when needed.
+> Vortex helped my server being targeted from spammers with its easily configurable anti-spam and anti-mention settings. We were able to control trolls rapidly joining with the raidmode protection. It was also extremely able to utilise to take Vortex's anti-invite feature when needed.
