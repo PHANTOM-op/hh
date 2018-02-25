@@ -2,18 +2,18 @@
 
 ### Welcome to the **Vortex** wiki!
 
-# ℹ [[About Vortex]]
+## ℹ [[About Vortex]]
 
-# 🌀 [[Getting Started]]
+## 🌀 [[Getting Started]]
 
-# 🔨 [[Moderator Guide]]
+## 🔨 [[Moderator Guide]]
 
-# 🚩 [[Strikes]]
+## 🚩 [[Strikes]]
 
-# 🛡 [[Auto-Moderation]]
+## 🛡 [[Auto-Moderation]]
 
-# 📄 [[Full Command Reference]]
+## 📄 [[Full Command Reference]]
 
-# ⚠ [[Troubleshooting]]
+## ⚠ [[Troubleshooting]]
 
-# 📥 [Support Server](https://discord.gg/0p9LSGoRLu6Pet0k)
+## 📥 [Support Server](https://discord.gg/0p9LSGoRLu6Pet0k)
