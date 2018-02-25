@@ -8,6 +8,10 @@
 
 ### 🚩 [[Strikes]]
 
+### 🛡 [[Auto-Moderation]]
+
+### 📄 [[Full Command Reference]]
+
 ### ⚠ [[Troubleshooting]]
 
 ### 📥 [Support Server](https://discord.gg/0p9LSGoRLu6Pet0k)
