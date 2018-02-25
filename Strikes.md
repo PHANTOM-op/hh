@@ -1,7 +1,7 @@
-## What are strikes?
+## 🚩 What are strikes?
 Strikes are points that users accumulate for misbehaving. Strikes are often represented by the triangular-flag emoji (🚩). Whenever a user receives strikes, they are sent a private message detailing the amount and reason for their strikes. When a user accumulates too many strikes, they are automatically punished according to the server's settings!
 
-## How do I set what punishments are given at different numbers of strikes?
+## 🚩 How do I set what punishments are given at different numbers of strikes?
 Easy! Just use the `>>setstrikes` command. Here's the usage:
 ```
 >>setstrikes <number> <action> [time]
@@ -15,7 +15,7 @@ The available actions include **Ban**, **Softban**, **Kick**, **Mute**, and **No
 >>setstrikes 2 mute 10 minutes
 ```
 
-## How do I give/take away strikes?
+## 🚩 How do I give/take away strikes?
 To manually give someone strikes, use the `>>strike` command. To remove strikes, use the `>>pardon` command. The usage for these commands is as follows:
 ```
 >>strike [number of strikes] <users...> <reason>
@@ -30,5 +30,5 @@ To pardon 2 of those strikes from Jake#0001 (let's say it was an accident), you'
 >>pardon 2 @Jake#0001 accident
 ```
 
-## How do I make Vortex automatically give strikes?
+## 🚩 How do I make Vortex automatically give strikes?
 Vortex automatically gives strikes via AutoMod. To have Vortex give strikes automatically for bad behavior, please check out the following sections: [not complete]
