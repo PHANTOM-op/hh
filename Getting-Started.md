@@ -8,4 +8,6 @@ If your server isn't listed, make sure you are correctly logged in by visiting h
 ## 🌀 Check Vortex's Permissions
 To operate correctly, Vortex needs the permissions to be able to complete necessary tasks. The easiest way to achieve this is to give the 'Vortex' role the Administrator permission and drag it to the top (or near the top) of the role list.
 
+> ![RoleOrder](https://i.imgur.com/U1bmRnO.gif)
+
 ## 🌀 Settings
