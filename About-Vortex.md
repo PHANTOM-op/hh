@@ -25,4 +25,4 @@ That's me! I'm jagrosh#4824 (113156185389092864), and I've been moderating Disco
 > **Vortex helped my server being targeted from spammers with its easily configurable anti-spam and anti-mention settings. We were able to control trolls rapidly joining with the raidmode protection. It was also extremely able to utilise to take Vortex's anti-invite feature when needed.**
 
 **Matthew**#2334 (349007194768801792)
-> **Ever since I started moderating servers, Vortex has helped me immensely, keeping the server safe and protecting it from spammers! Its auto-moderation features are great, deleting invites and spam. I would recommend Vortex to every moderator because of how easy it is to setup and use!**
+> **Vortex is the best moderation bot available and has helped me immensely in keeping my servers safe. Its auto-moderation features and easy customization offers top of the line service for any user. I would recommend Vortex to every community because of how easy it is to setup and use!**
