@@ -31,4 +31,4 @@ To pardon 2 of those strikes from Jake#0001 (let's say it was an accident), you'
 ```
 
 ## 🚩 How do I make Vortex automatically give strikes?
-Vortex automatically gives strikes via AutoMod. To have Vortex give strikes automatically for bad behavior, please check out the following sections: [not complete]
+Vortex automatically gives strikes via AutoMod. To have Vortex give strikes automatically for bad behavior, please check out the [[Auto-Moderation]] section.
