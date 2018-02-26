@@ -1,11 +1,15 @@
 This is a summary of all of Vortex's commands. Arguments surrounded by `<>` are required, and arguments surrounded by `[]` are optional. Do not include `<>` nor `[]` when running commands!
 
+
 ## 📜 General Commands
 ### `>>about`
 Shows information about the bot, including its version number, some features, and a few statistics.
 
 ### `>>invite`
 Provides Vortex's invite link. If you are having trouble inviting Vortex, make sure you are correctly logged in at https://discordapp.com/login
+
+### `>>lookup <ID | invite>`
+Finds information about a user or guild via ID (for either) or an invite code (for guilds only). All information found in this way is information that Discord makes publicly-available, and is not impacted by Vortex being in the guilds nor having mutual servers with the user.
 
 ### `>>ping`
 Checks Vortex's latency. 
@@ -15,6 +19,7 @@ Shows information about the server this command is used in.
 
 ### `>>userinfo [user]`
 Shows information about the provided user, or yourself if you don't include any arguments.
+
 
 ## 📜 Moderation Commands
 ### `>>kick <@users or user IDs...> [reason]`
@@ -50,6 +55,56 @@ Removes the specified number of strikes (or 1 if not specified) to the provided 
 ### `>>reason [case number] <reason>`
 Edits a reason in the Moderation Log. If no case number is provided, Vortex will search the log for the most-recent case that has no provided reason.
 
+
 ## 📜 Settings Commands
+### `>>setup`
+Performs server setup. See [[Getting Started]] for more information.
+
+### `>>setstrikes <number> <action> [time]`
+Sets the punishment to be given when a certain number of strikes is reached. Valid actions are **None**, **Mute**, **Kick**, **Softban**, and **Ban**. Mute and Ban can also have time values associated with them. See [[Strikes]] for more information.
+
+### `>>messagelog <#channel or OFF>`
+Sets the channel to which message edits and deletes will be logged.
+
+### `>>modlog <#channel or OFF>`
+Sets the channel to which moderation actions will be logged.
+
+### `>>serverlog <#channel or OFF>`
+Sets the channel to which server activity (joins, leaves, name changes, voice state changes) will be logged.
+
+### `>>timezone <zone>`
+Sets the timezone for the serverlog, messagelog, and modlog timestamps. See [[Log Timezone]] for more information.
+
+### `>>modrole <role>`
+Sets the moderation role for the server. Any user with this role can perform moderation commands, even if they do not normally have the necessary permissions.
+
+### `>>prefix <prefix or NONE>`
+Sets a custom prefix for the server. The default prefix (`>>`) will still work and cannot be removed.
+
+### `>>settings`
+Shows the server's current settings.
+
 
 ## 📜 Automod Commands
+Please see the [[Auto Moderation]] page for more in-depth descriptions of these features. All of these commands require the Manage Server permission to use.
+
+### `>>antiinvite <strikes>`
+Sets the number of strikes a user receives when they post a Discord invite link
+
+### `>>maxmentions <number | OFF>`
+Sets the maximum unique, non-bot mentions a user can send in a single message. Any message containing more than the maximum will be deleted, and users will receive one strike for every additional mention.
+
+### `>>maxmentions role <number | OFF>`
+Sets the maximum unique, mentionable role mentions a user can send in a single message. Any message containing more than the maximum will be deleted, and users will receive one strike for every additional mention.
+
+### `>>antiduplicate <strike threshold> [delete threshold] [strikes]`
+Sets the values to control and punish duplicate messages. `<strike threshold>` determines when duplicate messages will start accumulating strikes. Once the strike threshold is met, users will receive `[strikes]` strikes (default 1) for each additional duplicate sent. Any duplicate exceeding the `[delete threshold]` will be deleted.
+
+### `>>autoraidmode <ON | OFF | joins/seconds>`
+Configures Vortex to automatically enable Anti-Raid Mode when it senses a raid. Setting `joins/seconds` will enable Anti-Raid Mode if there are at least `joins` new joins to the server within `seconds` seconds. Setting this to `ON` uses 10 joins in 10 seconds.
+
+### `>>ignore <role | channel>`
+Sets the Auto-Moderator to ignore all users with a specific role, or all messages in a specific channel. Run this command without arguments to show the current ignore list. See [[Ignoring Roles and Channels]] for more info.
+
+### `>>unignore <role | channel>`
+Removes a role or channel from the ignore list. See [[Ignoring Roles and Channels]] for more info.
