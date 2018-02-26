@@ -11,3 +11,9 @@ To operate correctly, Vortex needs the permissions to be able to complete necess
 > ![RoleOrder](https://i.imgur.com/kJMIG8o.gif)
 
 ## 🌀 Settings
+
+### Logs
+
+### Moderator Role
+
+### AutoMod
