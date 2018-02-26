@@ -22,6 +22,8 @@ Shows information about the provided user, or yourself if you don't include any 
 
 
 ## 📜 Moderation Commands
+These commands can be run if a user's native Discord permissions would allow using the command, or if they have the designated mod role (see the Settings commands below).
+
 ### `>>kick <@users or user IDs...> [reason]`
 Kicks all of the provided users (or user IDs). If a reason is included, that reason is used in the audit log and moderation log.
 
@@ -57,6 +59,8 @@ Edits a reason in the Moderation Log. If no case number is provided, Vortex will
 
 
 ## 📜 Settings Commands
+These commands control various Vortex settings. The Manage Server permission is needed to use these commands.
+
 ### `>>setup`
 Performs server setup. See [[Getting Started]] for more information.
 
