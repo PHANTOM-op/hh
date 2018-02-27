@@ -98,6 +98,9 @@ Sets the number of strikes a user receives when they post a Discord invite link
 ### `>>maxmentions <number | OFF>`
 Sets the maximum unique, non-bot mentions a user can send in a single message. Any message containing more than the maximum will be deleted, and users will receive one strike for every additional mention.
 
+### `>>maxlines <number | OFF>`
+Sets the maximum number of lines a message can be. Any message containing more than the maximum will be deleted, and users will receive one strike for every additional line.
+
 ### `>>maxmentions role <number | OFF>`
 Sets the maximum unique, mentionable role mentions a user can send in a single message. Any message containing more than the maximum will be deleted, and users will receive one strike for every additional mention.
 
