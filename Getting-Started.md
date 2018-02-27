@@ -12,6 +12,7 @@ To operate correctly, Vortex needs the permissions to be able to complete necess
 
 ## 🌀 Settings
 
+*This section is still being written*
 ### Logs
 
 ### Moderator Role
