@@ -1,7 +1,7 @@
 # Vortex: Discord Moderation Bot
 
 ## ℹ Purpose
-Vortex is a bot designed to keep your server safe and your staff team organized. It's moderation and logging suite keep track of your members and keep your moderators accountable. It's auto-moderator capabilities also allow it to filter out certain types of behavior without need for human intervention, lightening the load on the staff team. Finally, Vortex is designed to be fast and easy to use. 
+Vortex is a bot designed to keep your server safe and your staff team organized. Its moderation and logging suite keep track of your members and keep your moderators accountable. Its auto-moderator capabilities also allow it to filter out certain types of behavior without need for human intervention, lightening the load on the staff team. Finally, Vortex is designed to be fast and easy to use. 
 
 ## ℹ Features
 * Moderation command suite
