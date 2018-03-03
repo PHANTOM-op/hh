@@ -54,6 +54,9 @@ Gives the specified number of strikes (or 1 if not specified) to the provided us
 ### `>>pardon [number] <@users or user IDs...> <reason>`
 Removes the specified number of strikes (or 1 if not specified) to the provided users. Each user will receive a private message letting them know of the pardon and reason.
 
+### `>>check <user>`
+Checks how many strikes a user has, as well as their current mute and/or ban status, if available.
+
 ### `>>reason [case number] <reason>`
 Edits a reason in the Moderation Log. If no case number is provided, Vortex will search the log for the most-recent case that has no provided reason.
 
@@ -64,7 +67,7 @@ These commands control various Vortex settings. The Manage Server permission is 
 ### `>>setup`
 Performs server setup. See [[Getting Started]] for more information.
 
-### `>>setstrikes <number> <action> [time]`
+### `>>punishment <number> <action> [time]`
 Sets the punishment to be given when a certain number of strikes is reached. Valid actions are **None**, **Mute**, **Kick**, **Softban**, and **Ban**. Mute and Ban can also have time values associated with them. See [[Strikes]] for more information.
 
 ### `>>messagelog <#channel or OFF>`
@@ -94,6 +97,9 @@ Please see the [[Auto Moderation]] page for more in-depth descriptions of these 
 
 ### `>>antiinvite <strikes>`
 Sets the number of strikes a user receives when they post a Discord invite link
+
+### `>>antireferral <strikes>`
+Sets the number of strikes a user received for posting referral links and other malicious links.
 
 ### `>>maxmentions <number | OFF>`
 Sets the maximum unique, non-bot mentions a user can send in a single message. Any message containing more than the maximum will be deleted, and users will receive one strike for every additional mention.
