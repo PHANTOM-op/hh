@@ -10,7 +10,7 @@ Vortex is a bot designed to keep your server safe and your staff team organized.
   * All commands allow multiple targets and setting reasons
 * Timed bans and mutes
 * Anti-Raid Mode
-* Message log, Server activity log, Moderation log
+* Message log, Server activity log, Moderation log, Voice log
 * Configurable Auto-Moderation
 * Customization (bot prefix, log timezone)
 
