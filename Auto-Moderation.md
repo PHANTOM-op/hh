@@ -27,7 +27,7 @@ This feature stops mention spammers from performing mass-mentions of users (or r
 **Recommended (role): `>>maxmentions role 4`**
 
 ## 🛡 Maximum Lines
-Enabling this will set a maximum number of lines users' messages can be. Any messages with more lines than the maximum will be deleted, and users will receive 1 strike for every additional line. To enable this, use `>>maxlines <number>`, where `<number>` is the maximum number of lines.<br>
+Enabling this will set a maximum number of lines users' messages can be. Any messages with more lines than the maximum will be deleted, and users will receive 1 strike for every multiple of up-to the maximum number of lines (For example, setting the max to 10: 11-20 lines = 1 strike, 21-30 lines = 2 strikes, etc). To enable this, use `>>maxlines <number>`, where `<number>` is the maximum number of lines.<br>
 **Recommended: `>>maxlines 10`**
 
 ## 🛡 Automatic Anti-Raid Mode
