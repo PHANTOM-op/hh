@@ -77,7 +77,10 @@ Sets the channel to which message edits and deletes will be logged.
 Sets the channel to which moderation actions will be logged.
 
 ### `>>serverlog <#channel or OFF>`
-Sets the channel to which server activity (joins, leaves, name changes, voice state changes) will be logged.
+Sets the channel to which server activity (joins, leaves, name changes) will be logged.
+
+### `>>voicelog <#channel or OFF>`
+Sets the channel to which voice joins, leaves and changes will be logged.
 
 ### `>>timezone <zone>`
 Sets the timezone for the serverlog, messagelog, and modlog timestamps. See [[Log Timezone]] for more information.
@@ -112,6 +115,9 @@ Sets the maximum unique, mentionable role mentions a user can send in a single m
 
 ### `>>antiduplicate <strike threshold> [delete threshold] [strikes]`
 Sets the values to control and punish duplicate messages. `<strike threshold>` determines when duplicate messages will start accumulating strikes. Once the strike threshold is met, users will receive `[strikes]` strikes (default 1) for each additional duplicate sent. Any duplicate exceeding the `[delete threshold]` will be deleted.
+
+### `>>resolvelinks <ON | OFF>`
+Enables or disables resolving links (redirect links) for invite and referral links. This feature is only available with [[Vortex Pro]].
 
 ### `>>autoraidmode <ON | OFF | joins/seconds>`
 Configures Vortex to automatically enable Anti-Raid Mode when it senses a raid. Setting `joins/seconds` will enable Anti-Raid Mode if there are at least `joins` new joins to the server within `seconds` seconds. Setting this to `ON` uses 10 joins in 10 seconds.
