@@ -11,6 +11,11 @@ The anti-invite feature makes Vortex automatically delete invite links to other 
 **Recommended (Invites): `>>antiinvite 2`**<br>
 **Recommended (Referral): `>>antireferral 3`**
 
+## 🛡 Resolving Links (Redirect Links)
+Users often try to get around invite and referral link filters using redirect sites such as goo.gl or bit.ly, or even customized domains. Vortex's link resolving protects against all kinds of redirect sites, including header/javascript redirects and redirect chaining.<br>
+**Recommended: `>>resolvelinks ON`**<br>
+🌟 Resolving Links is only available with [[Vortex Pro]]
+
 ## 🛡 Anti-Duplicate
 This feature prevents common spam by detecting duplicate messages. To set this feature, use `>>antiduplicate <strike threshold> [delete threshold] [strikes]`. Vortex will start deleting messages once the `[delete threshold]` duplicate is sent, and start assigning `[strikes]` strikes for each duplicate starting with the `<strike threshold>` duplicate.<br>
 **Recommended: `>>antiduplicate 3 2 1`<br>**
