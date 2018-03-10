@@ -12,7 +12,7 @@
 
 ## 🛡 [[Auto-Moderation]]
 
-## 🌟 Vortex Pro *[coming soon]*
+## 🌟 [[Vortex Pro]]
 
 ## 📜 [[Full Command Reference|Commands]]
 
