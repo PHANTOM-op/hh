@@ -82,6 +82,9 @@ Sets the channel to which server activity (joins, leaves, name changes) will be 
 ### `>>voicelog <#channel or OFF>`
 Sets the channel to which voice joins, leaves and changes will be logged.
 
+### `>>avatarlog <#channel or OFF>`
+Sets the channel to which avatar changes of members are logged.
+
 ### `>>timezone <zone>`
 Sets the timezone for the serverlog, messagelog, and modlog timestamps. See [[Log Timezone]] for more information.
 
@@ -127,3 +130,13 @@ Sets the Auto-Moderator to ignore all users with a specific role, or all message
 
 ### `>>unignore <role | channel>`
 Removes a role or channel from the ignore list. See [[Ignoring Roles and Channels]] for more info.
+
+
+## 📜 Tools Commands
+These commands provide other useful tools for moderation and server management.
+
+### `>>dehoist [symbol]`
+Modifies the nickname of any user using a symbol (such as `!`) to put their name at the top of the member list. By default, this will dehoist any member with names starting with symbols from `!` to `/`.
+
+### `>>inviteprune [max uses]`
+Deletes any invites with uses less than or equal to the provided number. By default, this will prune invites with 0 or 1 uses.
