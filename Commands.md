@@ -83,7 +83,7 @@ Sets the channel to which server activity (joins, leaves, name changes) will be 
 Sets the channel to which voice joins, leaves and changes will be logged.
 
 ### `>>avatarlog <#channel or OFF>`
-Sets the channel to which avatar changes of members are logged.
+Sets the channel to which avatar changes of members are logged. This feature is only available with [[Vortex Pro]].
 
 ### `>>timezone <zone>`
 Sets the timezone for the serverlog, messagelog, and modlog timestamps. See [[Log Timezone]] for more information.
