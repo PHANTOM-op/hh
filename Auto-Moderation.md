@@ -6,7 +6,7 @@ Auto Moderation is Vortex keeping your server clean so you don't have to. It als
 To quickly start using the recommended set of automod features, simply run `>>setup` and then select 'AutoMod.'
 
 # Specific Features
-## 🛡 Anti-Advertisement
+## 🛡 Anti-Advertisement/Referral
 The anti-invite feature makes Vortex automatically delete invite links to other Discord servers. To begin using this feature, use the `>>antiinvite <strikes>` command. Replace `<strikes>` with the number of strikes that Vortex should assign the user for posting invite links. You can also prevent referral (and other malicious) links with the anti-referral system. This uses the same format, `>>antireferral <strikes>`.<br>
 **Recommended (Invites): `>>antiinvite 2`**<br>
 **Recommended (Referral): `>>antireferral 3`**
@@ -15,6 +15,10 @@ The anti-invite feature makes Vortex automatically delete invite links to other 
 Users often try to get around invite and referral link filters using redirect sites such as goo.gl or bit.ly, or even customized domains. Vortex's link resolving protects against all kinds of redirect sites, including header/javascript redirects and redirect chaining.<br>
 **Recommended: `>>resolvelinks ON`**<br>
 🌟 Resolving Links is only available with [[Vortex Pro]]
+
+## 🛡 Anti-Copypasta
+This feature prevents users from sending "copypastas", or bits of copy-pastable (and often spammed) text. These range from annoying unicode like cooldog to false (fake) Discord-related PSAs.<br>
+**Recommended: `>>anticopypasta 1`**
 
 ## 🛡 Anti-Duplicate
 This feature prevents common spam by detecting duplicate messages. To set this feature, use `>>antiduplicate <strike threshold> [delete threshold] [strikes]`. Vortex will start deleting messages once the `[delete threshold]` duplicate is sent, and start assigning `[strikes]` strikes for each duplicate starting with the `<strike threshold>` duplicate.<br>
