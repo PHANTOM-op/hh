@@ -23,7 +23,7 @@ This feature prevents users from sending "copypastas", or bits of copy-pastable 
 ## 🛡 Anti-Duplicate
 This feature prevents common spam by detecting duplicate messages. To set this feature, use `>>antiduplicate <strike threshold> [delete threshold] [strikes]`. Vortex will start deleting messages once the `[delete threshold]` duplicate is sent, and start assigning `[strikes]` strikes for each duplicate starting with the `<strike threshold>` duplicate.<br>
 **Recommended: `>>antiduplicate 4 2 1`<br>**
-(start deleting on the 2nd duplicate message, and assign 1 strike for every duplicate starting with the 3rd)
+(start deleting on the 2nd duplicate message, and assign 1 strike for every duplicate starting with the 4th)
 
 ## 🛡 Maximum Mentions
 This feature stops mention spammers from performing mass-mentions of users (or roles). Any user mentioning more than the set maximum will have their message deleted and assigned a strike for every mention above the maximum. To set up the maximum mentions for user mentions, use `>>maxmentions <number>`. For roles, use `>>maxmentions role <number>`.<br>
