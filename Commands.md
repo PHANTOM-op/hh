@@ -8,9 +8,6 @@ Shows information about the bot, including its version number, some features, an
 ### `>>invite`
 Provides Vortex's invite link. If you are having trouble inviting Vortex, make sure you are correctly logged in at https://discordapp.com/login
 
-### `>>lookup <ID | invite>`
-Finds information about a user or guild via ID (for either) or an invite code (for guilds only). All information found in this way is information that Discord makes publicly-available, and is not impacted by Vortex being in the guilds nor having mutual servers with the user.
-
 ### `>>ping`
 Checks Vortex's latency. 
 
@@ -135,8 +132,14 @@ Removes a role or channel from the ignore list. See [[Ignoring Roles and Channel
 ## 📜 Tools Commands
 These commands provide other useful tools for moderation and server management.
 
+### `>>audit <ALL | FROM | ACTION> [user or action]`
+Finds recent audit log entries (all entries, entries from a certain user, or entries of a specific action type) and displays them in a mobile-friendly format.
+
 ### `>>dehoist [symbol]`
 Modifies the nickname of any user using a symbol (such as `!`) to put their name at the top of the member list. By default, this will dehoist any member with names starting with `!`.
 
 ### `>>inviteprune [max uses]`
 Deletes any invites with uses less than or equal to the provided number. By default, this will prune invites with 0 or 1 uses.
+
+### `>>lookup <ID | invite>`
+Finds information about a user or guild via ID (for either) or an invite code (for guilds only). All information found in this way is information that Discord makes publicly-available, and is not impacted by Vortex being in the guilds nor having mutual servers with the user.
