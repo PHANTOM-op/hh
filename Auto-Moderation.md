@@ -37,3 +37,7 @@ Enabling this will set a maximum number of lines users' messages can be. Any mes
 ## 🛡 Automatic Anti-Raid Mode
 This feature has Vortex watch for potential raids and automatically enable Anti-Raid Mode if a raid is detected. To enable this, use `>>autoraidmode <joins>/<seconds>`, which will enabled Anti-Raid Mode if the number of joins per time exceeds the provided values (or `>>autoraidmode ON` to use 10 joins in 10 seconds).<br>
 **Recommended: `>>autoraidmode 10/10`**
+
+## 🛡 Automatic Dehoisting
+This feature prevents users from setting their username or nickname to be listed higher in the user list. For example, users frequently prefix their username with `!` to be listed first. <br>
+**Recommended: `>>autodehoist !`**
