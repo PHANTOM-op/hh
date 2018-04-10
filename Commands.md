@@ -116,6 +116,9 @@ Sets the maximum unique, mentionable role mentions a user can send in a single m
 ### `>>antiduplicate <strike threshold> [delete threshold] [strikes]`
 Sets the values to control and punish duplicate messages. `<strike threshold>` determines when duplicate messages will start accumulating strikes. Once the strike threshold is met, users will receive `[strikes]` strikes (default 1) for each additional duplicate sent. Any duplicate exceeding the `[delete threshold]` will be deleted.
 
+### `>>autodehoist <character | OFF>`
+Sets the character such that users setting their nickname (or username if they have no nickname) will be 'dehoisted,' or moved lower in the member list. This is useful for preventing people from using certain nicknames to put themselves higher in the member list.
+
 ### `>>resolvelinks <ON | OFF>`
 Enables or disables resolving links (redirect links) for invite and referral links. This feature is only available with [[Vortex Pro]].
 
