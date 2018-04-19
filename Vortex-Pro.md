@@ -14,6 +14,7 @@ Resolve Link Redirects|❌|✔
 Avatar Logs|❌|✔
 Priority Support|❌|✔
 
+
 * **Resolving Links** (link redirects) to stop people from hiding invites and referrals behind redirect sites, link shorteners, and even custom domains!
 > ![ResolveLinks](https://i.imgur.com/ae85DsF.png)
 
