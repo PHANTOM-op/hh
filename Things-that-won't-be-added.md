@@ -8,3 +8,6 @@ Tags generally are used by regular users and staff alike, and thus would not be 
 
 ### Global Ban List
 Global ban lists are never ever ever a good idea. A global ban list is always (_always_) biased by the people that run it. A global ban list also doesn't account for variance of rules; what is a "ban-able" offense on one server might be perfectly fine on another. Any "proof" for a global ban list could be easily faked. Finally, if someone is breaking Discord's [Terms of Service](https://discordapp.com/terms), please [**report it to Discord**](https://dis.gd/contact)! Discord can take care of ToS violations in larger-scale ways than trying to ban someone from a bunch of servers via some global ban list.
+
+### Things not related to moderation
+Vortex is a moderation bot. Any effort that would be put into non-moderation features would be better-spent being put into improving the existing moderation features or creating new ones, so that Vortex can become an even better moderation bot!
