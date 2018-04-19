@@ -20,7 +20,7 @@ If there are any outages or other changes, check the `#announcements` channel on
 3. Check that you have the automod feature enabled with the `>>settings` command.
 
 ### ⚠ Muting isn't working!
-1. Make sure that the Muted role exists and is configured properly for each channel. The easy way to configure it is to use the `>>setup` command and then select the 'Muted Role' option.
+1. Make sure that the Muted role exists and is configured properly for each channel. The easy way to configure it is to use the `>>setup muterole` command.
 2. Make sure that there aren't any roles with a ✅ Send Messages override in your text channel settings; if a user has a role with a ✅ Send Messages override in a channel, they will be able to talk through the Muted role.
 
 
