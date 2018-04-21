@@ -1,9 +1,12 @@
 ## Version 2.0 (Beta)
-`Feb 27, 2018`
+`April 20, 2018`
 ### Command Changes
 * Added `lookup` command to find info about users and guilds that Vortex can't see
+* Added invite pruning to prune low-use invites
 * `userinfo` command now works with more than mentions and user IDs
+* `roleinfo` command added
 * All moderation commands now accept user mentions, broken user mentions, and ids as valid input for users
+* Bans and mutes can now be timed
 * Because mod commands allow IDs as input, `>>hackban` is now just an alias of `>>ban`
 * Several settings commands were added or updated
 
@@ -21,4 +24,4 @@
 * Customizable 'Moderator Role' which can use all Moderation commands regardless of the role's native permissions
 
 ### Backwards Compatibility
-This is a bit tricky, because the setup is vastly different from the previous version of Vortex. It hasn't been decided how to treat settings at this point. The current most-likely scenario is: If a server is using the Beta version, their settings will be transferred from that. Otherwise, if they are currently using Vortex, they will be automatically set up with a comparable set of settings.
+This is a bit tricky, because the setup is vastly different from the previous version of Vortex. If a server uses or has ever set settings on Beta, those settings will be transferred. If a server has not used Beta and has settings on Vortex 1.X, some settings will be transferred and modified to fit 2.0's feature set.
