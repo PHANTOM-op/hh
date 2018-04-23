@@ -11,6 +11,9 @@ Provides Vortex's invite link. If you are having trouble inviting Vortex, make s
 ### `>>ping`
 Checks Vortex's latency. 
 
+### `>>roleinfo <role>`
+Shows information about a role.
+
 ### `>>serverinfo`
 Shows information about the server this command is used in. 
 
@@ -32,6 +35,9 @@ Bans and then immediately unbans all the provided users. This is useful to simul
 
 ### `>>clean <parameters>`
 Cleans all messages in the current channel matching the given parameters. See [[Cleaning Messages]] for more detailed information about this command.
+
+### `>>voicekick <@users or user IDs...>
+Creates a temporary voice channel, moves the provided users into it, and then deletes the channel, effectively kicking them from voice.
 
 ### `>>voicemove [channel]`
 Puts Vortex into the specified voice channel (or your current channel if no arguments are provided) and waits. When you drag Vortex to a new channel, he will drag all users in the current channel to the new channel.
