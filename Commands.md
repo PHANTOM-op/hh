@@ -36,7 +36,7 @@ Bans and then immediately unbans all the provided users. This is useful to simul
 ### `>>clean <parameters>`
 Cleans all messages in the current channel matching the given parameters. See [[Cleaning Messages]] for more detailed information about this command.
 
-### `>>voicekick <@users or user IDs...>
+### `>>voicekick <@users or user IDs...>`
 Creates a temporary voice channel, moves the provided users into it, and then deletes the channel, effectively kicking them from voice.
 
 ### `>>voicemove [channel]`
