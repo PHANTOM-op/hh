@@ -3,7 +3,7 @@
 Auto Moderation is Vortex keeping your server clean so you don't have to. It also keeps watch even when you're sleeping or away, and isn't susceptible to content that could crash or lag your client.
 
 ## 🛡 Quick Setup
-To quickly start using the recommended set of automod features, simply run `>>setup` and then select 'AutoMod.'
+To quickly start using the recommended set of automod features, simply run `>>setup automod`
 
 # Specific Features
 ## 🛡 Anti-Advertisement/Referral
