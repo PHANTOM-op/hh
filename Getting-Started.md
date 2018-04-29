@@ -15,7 +15,7 @@ To operate correctly, Vortex needs the permissions to be able to complete necess
 The next step is configuring vortex for your server! You can type `>>help settings` to see a full list of settings commands, `>>help automod` to see a full list of automod commands, or check out the [[Full Command Reference|Commands]]
 
 ### Muted Role
-The Muted role is a role that (usually) can be applied to a user to prevent them from sending messages, adding reactions, speaking, and connecting to voice channels. To create a Muted role with this default functionality, run `>>mute setup`. You can also customize the permissions after creation to your liking (such as also causing it to remove Read Messages perms in some channels, or allowing sending messages in a "time-out" channel). 
+The Muted role is a role that (usually) can be applied to a user to prevent them from sending messages, adding reactions, speaking, and connecting to voice channels. To create a Muted role with this default functionality, run `>>setup muted`. You can also customize the permissions after creation to your liking (such as also causing it to remove Read Messages perms in some channels, or allowing sending messages in a "time-out" channel). 
 
 ### Logs
 Vortex has various logs to keep track of different kinds of server activity. All commands for logs are found in the Settings commands, available via `>>help settings` or on the [[Full Command Reference|Commands]]. If your server is utilizing the [[strike system|Strikes]], it is recommended to enable (at minimum) the ModLog.
