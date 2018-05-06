@@ -107,6 +107,9 @@ Please see the [[Auto Moderation]] page for more in-depth descriptions of these 
 ### `>>antiinvite <strikes>`
 Sets the number of strikes a user receives when they post a Discord invite link
 
+### `>>anticopypasta <strikes>`
+Sets the number of strikes a user receives when they post a copypasta
+
 ### `>>antireferral <strikes>`
 Sets the number of strikes a user received for posting referral links and other malicious links.
 
