@@ -6,6 +6,7 @@
 * Added `audit` command to see recent audit log entries
 * Modified dehoisting characters as Discord has blocked more invisible characters that were previously used for dehoisting.
 
+-----
 
 ## Version 2.0-Beta
 `April 20, 2018`
