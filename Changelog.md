@@ -1,4 +1,13 @@
-## Version 2.0 (Beta)
+## Version 2.1
+`May 13, 2018`
+### Command Changes
+* Added `unban` command to unban users
+* Added `announce` command to ping a role with a message in a specified channel
+* Added `audit` command to see recent audit log entries
+* Modified dehoisting characters as Discord has blocked more invisible characters that were previously used for dehoisting.
+
+
+## Version 2.0-Beta
 `April 20, 2018`
 ### Command Changes
 * Added `lookup` command to find info about users and guilds that Vortex can't see
@@ -16,6 +25,7 @@
 * Invite link detection improved
 * Duplicate message detection improved
 * Auto anti-raid mode threshold is now configurable
+* Added automatic and by-command dehoisting of members (prevent using names/nicknames to increase position in online list)
 
 ### Settings Changes
 * Configurable prefix (default prefix will always work and cannot be removed)
