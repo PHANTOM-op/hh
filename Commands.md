@@ -33,6 +33,9 @@ Bans all of the provided users (or user IDs). If a length of time is included, t
 ### `>>softban <@users or user IDs...> [reason]`
 Bans and then immediately unbans all the provided users. This is useful to simultaneously kick a user and clean all of their recent messages. If a reason is included, that reason is used in the audit log and moderation log.
 
+### `>>unban <@users or user IDs...> [reason]`
+Unbans users.
+
 ### `>>clean <parameters>`
 Cleans all messages in the current channel matching the given parameters. See [[Cleaning Messages]] for more detailed information about this command.
 
@@ -143,6 +146,9 @@ Removes a role or channel from the ignore list. See [[Ignoring Roles and Channel
 
 ## 📜 Tools Commands
 These commands provide other useful tools for moderation and server management.
+
+### `>>announce <#channel> <rolename> | <message>`
+Pings a role with an announcement in the specified channel. If the role is not mentionable, it will make it mentionable in order to send the message, and then make it unmentionable again.
 
 ### `>>audit <ALL | FROM | ACTION> [user or action]`
 Finds recent audit log entries (all entries, entries from a certain user, or entries of a specific action type) and displays them in a mobile-friendly format.
