@@ -148,7 +148,13 @@ Removes a role or channel from the ignore list. See [[Ignoring Roles and Channel
 These commands provide other useful tools for moderation and server management.
 
 ### `>>announce <#channel> <rolename> | <message>`
-Pings a role with an announcement in the specified channel. If the role is not mentionable, it will make it mentionable in order to send the message, and then make it unmentionable again.
+Pings a role with an announcement in the specified channel. If the role is not mentionable, it will make it mentionable in order to send the message, and then make it unmentionable again.<br>
+Examples:
+```
+>>announce #updates UpdateRoleName | Hey guys this is an update
+>>announce update_channel_name Role Name | This is an announcement!
+>>announce #announcements Members | Hey members, check this out!!
+```
 
 ### `>>audit <ALL | FROM | ACTION> [user or action]`
 Finds recent audit log entries (all entries, entries from a certain user, or entries of a specific action type) and displays them in a mobile-friendly format.
