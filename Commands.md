@@ -113,6 +113,9 @@ Sets the number of strikes a user receives when they post a Discord invite link
 ### `>>anticopypasta <strikes>`
 Sets the number of strikes a user receives when they post a copypasta
 
+### `>>antieveryone <strikes>`
+Sets the number of strikes a user receives when attempting to ping everyone/here
+
 ### `>>antireferral <strikes>`
 Sets the number of strikes a user received for posting referral links and other malicious links.
 
