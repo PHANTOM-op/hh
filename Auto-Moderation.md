@@ -20,6 +20,10 @@ Users often try to get around invite and referral link filters using redirect si
 This feature prevents users from sending "copypastas", or bits of copy-pastable (and often spammed) text. These range from annoying unicode like cooldog to false (fake) Discord-related PSAs.<br>
 **Recommended: `>>anticopypasta 1`**
 
+## 🛡 Anti-Everyone
+This feature prevents users from attempting to ping @ everyone / @ here. This also catches role pings for roles named 'everyone' or 'here'. This feature will not affect anyone who actually has permission to ping @ everyone.<br>
+**Recommended: `>>antieveryone 1`**
+
 ## 🛡 Anti-Duplicate
 This feature prevents common spam by detecting duplicate messages. To set this feature, use `>>antiduplicate <strike threshold> [delete threshold] [strikes]`. Vortex will start deleting messages once the `[delete threshold]` duplicate is sent, and start assigning `[strikes]` strikes for each duplicate starting with the `<strike threshold>` duplicate.<br>
 **Recommended: `>>antiduplicate 4 2 1`<br>**
