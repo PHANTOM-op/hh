@@ -1,3 +1,9 @@
+## 🌀 Requirements
+There are some light requirements to using Vortex. These requirements are in place to help save resources. Your server must meet all of the requirements below, or Vortex will automatically leave your server.
+* **10 or more human members** - Vortex is a moderation bot, and if you have fewer than 10 people, why do you need a bot to moderate anything?
+* **More humans than bots** - Adding a lot of bots to a server just wastes resources, and making 'bot collection' servers is generally frowned upon. No server should need more bots than humans.
+* **Follow Discord's Terms of Service** - While not automatically detected, if a server is reported for ToS violations, Vortex may be manually removed.
+
 ## 🌀 Adding Vortex to Your Server
 The first step is to make sure that Vortex is actually on your server! To add a bot to your server, you must have the **Manage Server** permission on the server. If you do, you can click this link to add Vortex to your server:
 
