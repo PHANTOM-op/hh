@@ -11,7 +11,7 @@ Setting a timezone is easy! Just use the following command:
 And replace `<zone>` with your timezone of choice. Examples:
 ```
 >>timezone America/New_York
->>timezone GMT+4`
+>>timezone GMT+4
 >>timezone Canada/East-Saskatchewan
 ```
 
