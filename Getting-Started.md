@@ -8,7 +8,7 @@ There are some light requirements to using Vortex. These requirements are in pla
 ## 🌀 Adding Vortex to Your Server
 The first step is to make sure that Vortex is actually on your server! To add a bot to your server, you must have the **Manage Server** permission on the server. If you do, you can click this link to add Vortex to your server:
 
-**Please read the requirements above this section; Vortex may automatically leave your server if it does not meet the requirements**
+> **Please read the requirements above this section; Vortex may automatically leave your server if it does not meet the requirements**
 
 **https://discordapp.com/oauth2/authorize?client_id=240254129333731328&permissions=500559086&scope=bot**
 
