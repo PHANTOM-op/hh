@@ -10,18 +10,27 @@ Customizable Logs|✔|✔
 99.9% Uptime|✔|✔
 Raid Protection|✔|✔
 Auto-Moderation|✔|✔
+Priority Support|❌|✔
+Roles in Mod Log|❌|✔
 Resolve Link Redirects|❌|✔
 Avatar Logs|❌|✔
-Priority Support|❌|✔
+Beta Feature Access|❌|✔
 
+**Priority Support** so your questions are treated with more importance!
 
-* **Resolving Links** (link redirects) to stop people from hiding invites and referrals behind redirect sites, link shorteners, and even custom domains!
+**Roles in Mod Log** to add custom role assignments to be tracked in the moderation log!
+
+**Resolving Links** (link redirects) to stop people from hiding invites and referrals behind redirect sites, link shorteners, and even custom domains!
+
 > ![ResolveLinks](https://i.imgur.com/ae85DsF.png)
 
-* **Avatar Logs** to keep track of your members' avatars
+**Avatar Logs** to keep track of your members' avatars
+
 > ![AvatarLog](https://i.imgur.com/PIaeDzc.png)
 
-* *And more features in the future...*
+**Beta Feature Access** to get started using new tools before they are available to everyone else!
+
+*And more features in the future...*
 
 ## 🌟 How much does Vortex Pro cost?
 Vortex Pro is not yet available. However, it will likely be a monthly subscription.
