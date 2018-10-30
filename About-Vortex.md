@@ -33,3 +33,6 @@ That's me! I'm jagrosh#4824 (113156185389092864), and I've been moderating Disco
 
 **Matthew**#2334 (349007194768801792)
 > **Vortex is the best moderation bot available and has helped me immensely in keeping my servers safe. Its auto-moderation features and easy customization offers top of the line service for any user. I would recommend Vortex to every community because of how easy it is to setup and use!**
+
+**Your Testimonial Here**
+> **Does your community benefit from Vortex? Want to share your experience and how the bot has helped make your community manageable? Feel free to contact me (jagrosh#4824) with a description of your community and how Vortex has helped it, and you may see your review here!**
