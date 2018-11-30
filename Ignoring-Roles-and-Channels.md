@@ -1,4 +1,4 @@
-Vortex's automod features will ignore anyone with roles that it is ignoring. It will also ignore channels that are on its ignore list. You can see the list of ignored roles by running the `>>ignore` command with no arguments.
+Vortex's **automod** features will ignore anyone with roles that it is ignoring. Its automod will also ignore channels that are on its ignore list. You can see the list of ignored roles by running the `>>ignore` command with no arguments.
 
 > ![ignore](http://i.imgur.com/SCpgqoy.png)
 
@@ -13,3 +13,5 @@ You can add roles (or channels) to this list by running the `>>ignore` command w
 > ![setting](http://i.imgur.com/rFtXQxu.png)
 
 Finally, you can disable anti-invite or anti-spam (and not the entirety of automod) in specific channels by adding `{invites}` and/or `{spam}` to the channel topic, respectively. This is useful if (for example) you want to allow a channel to have invites posted, but don't want automod to completely ignore the channel.
+
+> Note: Ignoring something _only_ applies to the automod features. Ignoring has no relation to commands or command usage!
