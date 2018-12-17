@@ -22,4 +22,6 @@
 
 ## External Resources
 
+### 📟 [jagrosh's Website](https://jagrosh.com)
+
 ### 🤖 [Discord Bots](https://discord.bots.gg/)
