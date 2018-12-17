@@ -17,3 +17,9 @@
 ### ⚠ [[Troubleshooting]]
 
 ### 📥 [Support Server](https://discord.gg/0p9LSGoRLu6Pet0k)
+
+---
+
+## External Resources
+
+### 🤖 [Discord Bots](https://discord.bots.gg/)
