@@ -1,6 +1,6 @@
 Oh no! Something isn't working!! Follow this handy guide for solving common issues!
 
-# General Troubleshooting
+## General Troubleshooting
 ### ⚠ Check Vortex's Permissions
 Does Vortex have the necessary permissions to perform the action you want it to? Try giving Vortex the Administrator permission and moving the 'Vortex' role to the top (or near the top) of the role list. If this fixes your issue, Vortex didn't have sufficient permissions.
 
@@ -12,8 +12,9 @@ It's possible that Discord may be having connectivity or latency issues. You can
 ### ⚠ Check for Recent Updates
 If there are any outages or other changes, check the `#announcements` channel on the [Support Server](https://discord.gg/0p9LSGoRLu6Pet0k)!
 
+<br>
 
-# Specific Troubleshooting
+## Specific Troubleshooting
 ### ⚠ Vortex isn't deleting messages that it should be deleting!
 1. Check that Vortex has sufficient permissions as described above.
 2. Check which roles are being ignored with `>>ignored`. Take a look at the [[Ignoring Roles and Channels]] page for more information about ignored roles.
@@ -23,8 +24,9 @@ If there are any outages or other changes, check the `#announcements` channel on
 1. Make sure that the Muted role exists and is configured properly for each channel. The easy way to configure it is to use the `>>setup muterole` command.
 2. Make sure that there aren't any roles with a ✅ Send Messages override in your text channel settings; if a user has a role with a ✅ Send Messages override in a channel, they will be able to talk through the Muted role.
 
+<br>
 
-# Getting Further Support
+## Getting Further Support
 ### ⚠ Read the rest of the Wiki
 Please make sure to read through this guide as well as the rest of the wiki before getting further support. You can find the main topics in the sidebar as well as the [[Homepage|Home]]
 
