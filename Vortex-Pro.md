@@ -1,3 +1,8 @@
+> ⚠ **Vortex Pro is not available yet!
+> If you'd like to be alerted when it becomes available, please join [my development server](https://invite.gg/jagrosh) and type `%roleme Vortex Updates` in a testing channel.**
+
+<br>
+
 ## 🌟 What is Vortex Pro?
 **Vortex Pro** boosts Vortex's already-powerful moderation tools to the next level. With even more options available, you'll be able to rest easy that your server is safe from spammers, raiders, trolls, and more.
 
@@ -10,25 +15,18 @@ Customizable Logs|✔|✔
 99.9% Uptime|✔|✔
 Raid Protection|✔|✔
 Auto-Moderation|✔|✔
-Priority Support|❌|✔
-Roles in Mod Log|❌|✔
 Resolve Link Redirects|❌|✔
 Avatar Logs|❌|✔
-Beta Feature Access|❌|✔
 
-**Priority Support** so your questions are treated with more importance!
+<br>
 
-**Roles in Mod Log** to add custom role assignments to be tracked in the moderation log!
-
-**Resolving Links** (link redirects) to stop people from hiding invites and referrals behind redirect sites, link shorteners, and even custom domains!
+✔ **Resolving Links** (link redirects) to stop people from hiding invites and referrals behind redirect sites, link shorteners, and even custom domains!
 
 > ![ResolveLinks](https://i.imgur.com/ae85DsF.png)
 
-**Avatar Logs** to keep track of your members' avatars
+✔ **Avatar Logs** to keep track of your members' avatars
 
 > ![AvatarLog](https://i.imgur.com/PIaeDzc.png)
-
-**Beta Feature Access** to get started using new tools before they are available to everyone else!
 
 *And more features in the future...*
 
