@@ -1,7 +1,7 @@
 > ⚠ **Vortex Pro is not available yet!
 > If you'd like to be alerted when it becomes available, please join [my development server](https://invite.gg/jagrosh) and type `%roleme Vortex Updates` in a testing channel.**
 
-<br>
+---
 
 ## 🌟 What is Vortex Pro?
 **Vortex Pro** boosts Vortex's already-powerful moderation tools to the next level. With even more options available, you'll be able to rest easy that your server is safe from spammers, raiders, trolls, and more.
