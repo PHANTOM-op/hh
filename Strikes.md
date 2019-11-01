@@ -14,6 +14,7 @@ The available actions include **Ban**, **Softban**, **Kick**, **Mute**, and **No
 ```
 >>punishment 2 mute 10 minutes
 ```
+To remove a punishment from the list, set that strike level to **None**.
 
 ## 🚩 How do I give/take away strikes?
 To manually give someone strikes, use the `>>strike` command. To remove strikes, use the `>>pardon` command. The usage for these commands is as follows:
