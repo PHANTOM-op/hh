@@ -15,18 +15,20 @@ Customizable Logs|✔|✔
 99.9% Uptime|✔|✔
 Raid Protection|✔|✔
 Auto-Moderation|✔|✔
+Basic Filters|✔|✔
 Resolve Link Redirects|❌|✔
 Avatar Logs|❌|✔
+Regex Filters|❌|✔
 
 <br>
 
 ✔ **Resolving Links** (link redirects) to stop people from hiding invites and referrals behind redirect sites, link shorteners, and even custom domains!
-
 > ![ResolveLinks](https://i.imgur.com/ae85DsF.png)
 
 ✔ **Avatar Logs** to keep track of your members' avatars
-
 > ![AvatarLog](https://i.imgur.com/PIaeDzc.png)
+
+✔ **Regex Filters** to provide very fine control of filtered content
 
 *And more features in the future...*
 
