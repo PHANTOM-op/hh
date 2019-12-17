@@ -95,7 +95,7 @@ Sets the channel to which avatar changes of members are logged. This feature is 
 Sets the timezone for the serverlog, messagelog, and modlog timestamps. See [[Log Timezone]] for more information.
 
 ### `>>modrole <role>`
-Sets the moderation role for the server. Any user with this role can perform moderation commands, even if they do not normally have the necessary permissions.
+Sets the moderation role for the server. Any user with this role can perform [[moderation commands|Commands#-moderation-commands]], even if they do not normally have the necessary permissions.
 
 ### `>>prefix <prefix or NONE>`
 Sets a custom prefix for the server. The default prefix (`>>`) will still work and cannot be removed.
