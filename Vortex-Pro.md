@@ -8,17 +8,19 @@
 
 ## 🌟 What features does Vortex Pro provide?
 
-Feature|Vortex|Vortex Pro
----:|:---:|:---:
-Moderation Suite|✔|✔
-Customizable Logs|✔|✔
-99.9% Uptime|✔|✔
-Raid Protection|✔|✔
-Auto-Moderation|✔|✔
-Basic Filters|✔|✔
-Resolve Link Redirects|❌|✔
-Avatar Logs|❌|✔
-Regex Filters|❌|✔
+Feature|Vortex|Vortex Plus|Vortex Pro
+---:|:---:|:---:|:---:
+Moderation Suite|✔|✔|✔
+Customizable Logs|✔|✔|✔
+99.9% Uptime|✔|✔|✔
+Raid Protection|✔|✔|✔
+Auto-Moderation|✔|✔|✔
+Basic Filters|✔|✔|✔
+Advanced Logs|❌|✔|✔
+Invite Lookup|❌|✔|✔
+Resolve Link Redirects|❌|❌|✔
+Avatar Logs|❌|❌|✔
+Regex Filters|❌|❌|✔
 
 <br>
 
