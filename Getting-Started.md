@@ -1,3 +1,6 @@
+## 🌀 Read This First
+Unless you already know how to use Vortex, then **Vortex is likely not the bot for you**. It takes some effort to learn to use Vortex efficiently, and very little support will be provided beyond the documentation in this wiki. If you've never used Vortex, consider searching for a different moderation bot on https://discord.bots.gg
+
 ## 🌀 Requirements
 There are some light requirements to using Vortex. These requirements are in place to help save resources. Your server must meet all of the requirements below, or Vortex will automatically leave your server.
 * **15 or more human members** - Vortex is a moderation bot, and if you have fewer than 15 people, why do you need a bot to moderate anything?
