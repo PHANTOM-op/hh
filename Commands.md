@@ -33,6 +33,9 @@ Bans all of the provided users (or user IDs). If a length of time is included, t
 ### `>>softban <@users or user IDs...> [reason]`
 Bans and then immediately unbans all the provided users. This is useful to simultaneously kick a user and clean all of their recent messages. If a reason is included, that reason is used in the audit log and moderation log.
 
+### `>>silentban <@users or user IDs...> [time] [reason]`
+Identical to `>>ban`, but no messages will be deleted
+
 ### `>>unban <@users or user IDs...> [reason]`
 Unbans users.
 
