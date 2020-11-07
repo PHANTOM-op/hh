@@ -8,7 +8,7 @@
 ## 🌟 What features does Vortex Pro provide?
 
 Feature|Vortex|Vortex Pro
----:|:---:|:---:|:---:
+---:|:---:|:---:
 Moderation Suite      |✔|✔
 Customizable Logs     |✔|✔
 99.9% Uptime          |✔|✔
