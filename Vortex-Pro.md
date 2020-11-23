@@ -9,6 +9,7 @@
 
 Feature|Vortex|Vortex Pro
 ---:|:---:|:---:
+Priority Uptime       |✔|✔
 Moderation Suite      |✔|✔
 Customizable Logs     |✔|✔
 99.9% Uptime          |✔|✔
