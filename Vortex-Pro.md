@@ -9,12 +9,12 @@
 
 Feature|Vortex|Vortex Pro
 ---:|:---:|:---:
-Priority Uptime       |✔|✔
 Moderation Suite      |✔|✔
 Customizable Logs     |✔|✔
 99.9% Uptime          |✔|✔
 Raid Protection       |✔|✔
 Auto-Moderation       |✔|✔
+Priority Uptime       |❌|✔
 Filters               |❌|✔
 Voice Logs            |❌|✔
 Invite Lookup         |❌|✔
